@@ -1,2 +1,2 @@
-# Linear-Algebra-Refresher-Course
-Solutions to coding quizzes in Linear Algebra Refresher Course
+# Linear Algebra Refresher Course in Julia
+Solutions to the coding quizzes in [Linear Algebra Refresher Course](https://udacity.com/course/linear-algebra-refresher-course--ud953) in Julia.
